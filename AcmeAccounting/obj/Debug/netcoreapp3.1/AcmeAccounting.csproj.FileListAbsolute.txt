@@ -1,0 +1,12 @@
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.exe
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.deps.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.runtimeconfig.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.runtimeconfig.dev.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\bin\Debug\netcoreapp3.1\AcmeAccounting.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.AssemblyInfoInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.AssemblyInfo.cs
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AcmeAccounting\obj\Debug\netcoreapp3.1\AcmeAccounting.genruntimeconfig.cache
