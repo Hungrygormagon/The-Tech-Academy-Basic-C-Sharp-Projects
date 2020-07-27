@@ -1,0 +1,12 @@
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\bin\Debug\netcoreapp3.1\AnonymousIncomeSurvey.exe
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\bin\Debug\netcoreapp3.1\AnonymousIncomeSurvey.deps.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\bin\Debug\netcoreapp3.1\AnonymousIncomeSurvey.runtimeconfig.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\bin\Debug\netcoreapp3.1\AnonymousIncomeSurvey.runtimeconfig.dev.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\bin\Debug\netcoreapp3.1\AnonymousIncomeSurvey.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\bin\Debug\netcoreapp3.1\AnonymousIncomeSurvey.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\obj\Debug\netcoreapp3.1\AnonymousIncomeSurvey.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\obj\Debug\netcoreapp3.1\AnonymousIncomeSurvey.AssemblyInfoInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\obj\Debug\netcoreapp3.1\AnonymousIncomeSurvey.AssemblyInfo.cs
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\obj\Debug\netcoreapp3.1\AnonymousIncomeSurvey.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\obj\Debug\netcoreapp3.1\AnonymousIncomeSurvey.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AnonymousIncomeSurvey\obj\Debug\netcoreapp3.1\AnonymousIncomeSurvey.genruntimeconfig.cache
