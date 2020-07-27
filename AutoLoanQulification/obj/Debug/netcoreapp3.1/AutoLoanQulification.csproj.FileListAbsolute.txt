@@ -1,0 +1,13 @@
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\obj\Debug\netcoreapp3.1\AutoLoanQulification.csprojAssemblyReference.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\obj\Debug\netcoreapp3.1\AutoLoanQulification.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\obj\Debug\netcoreapp3.1\AutoLoanQulification.AssemblyInfoInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\obj\Debug\netcoreapp3.1\AutoLoanQulification.AssemblyInfo.cs
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\bin\Debug\netcoreapp3.1\AutoLoanQulification.exe
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\bin\Debug\netcoreapp3.1\AutoLoanQulification.deps.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\bin\Debug\netcoreapp3.1\AutoLoanQulification.runtimeconfig.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\bin\Debug\netcoreapp3.1\AutoLoanQulification.runtimeconfig.dev.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\bin\Debug\netcoreapp3.1\AutoLoanQulification.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\bin\Debug\netcoreapp3.1\AutoLoanQulification.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\obj\Debug\netcoreapp3.1\AutoLoanQulification.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\obj\Debug\netcoreapp3.1\AutoLoanQulification.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\AutoLoanQulification\obj\Debug\netcoreapp3.1\AutoLoanQulification.genruntimeconfig.cache
