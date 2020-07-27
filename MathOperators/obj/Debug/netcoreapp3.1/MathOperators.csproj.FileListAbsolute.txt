@@ -1,0 +1,13 @@
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\obj\Debug\netcoreapp3.1\MathOperators.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\obj\Debug\netcoreapp3.1\MathOperators.AssemblyInfoInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\obj\Debug\netcoreapp3.1\MathOperators.AssemblyInfo.cs
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\bin\Debug\netcoreapp3.1\MathOperators.exe
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\bin\Debug\netcoreapp3.1\MathOperators.deps.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\bin\Debug\netcoreapp3.1\MathOperators.runtimeconfig.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\bin\Debug\netcoreapp3.1\MathOperators.runtimeconfig.dev.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\bin\Debug\netcoreapp3.1\MathOperators.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\bin\Debug\netcoreapp3.1\MathOperators.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\obj\Debug\netcoreapp3.1\MathOperators.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\obj\Debug\netcoreapp3.1\MathOperators.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\obj\Debug\netcoreapp3.1\MathOperators.genruntimeconfig.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathOperators\obj\Debug\netcoreapp3.1\MathOperators.csprojAssemblyReference.cache
