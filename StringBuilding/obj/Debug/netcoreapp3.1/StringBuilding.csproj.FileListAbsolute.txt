@@ -1,0 +1,13 @@
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\bin\Debug\netcoreapp3.1\StringBuilding.exe
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\bin\Debug\netcoreapp3.1\StringBuilding.deps.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\bin\Debug\netcoreapp3.1\StringBuilding.runtimeconfig.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\bin\Debug\netcoreapp3.1\StringBuilding.runtimeconfig.dev.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\bin\Debug\netcoreapp3.1\StringBuilding.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\bin\Debug\netcoreapp3.1\StringBuilding.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\obj\Debug\netcoreapp3.1\StringBuilding.csprojAssemblyReference.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\obj\Debug\netcoreapp3.1\StringBuilding.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\obj\Debug\netcoreapp3.1\StringBuilding.AssemblyInfoInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\obj\Debug\netcoreapp3.1\StringBuilding.AssemblyInfo.cs
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\obj\Debug\netcoreapp3.1\StringBuilding.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\obj\Debug\netcoreapp3.1\StringBuilding.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\StringBuilding\obj\Debug\netcoreapp3.1\StringBuilding.genruntimeconfig.cache
