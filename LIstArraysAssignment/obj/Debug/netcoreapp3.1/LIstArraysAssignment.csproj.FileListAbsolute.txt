@@ -1,0 +1,13 @@
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\bin\Debug\netcoreapp3.1\LIstArraysAssignment.exe
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\bin\Debug\netcoreapp3.1\LIstArraysAssignment.deps.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\bin\Debug\netcoreapp3.1\LIstArraysAssignment.runtimeconfig.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\bin\Debug\netcoreapp3.1\LIstArraysAssignment.runtimeconfig.dev.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\bin\Debug\netcoreapp3.1\LIstArraysAssignment.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\bin\Debug\netcoreapp3.1\LIstArraysAssignment.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\obj\Debug\netcoreapp3.1\LIstArraysAssignment.csprojAssemblyReference.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\obj\Debug\netcoreapp3.1\LIstArraysAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\obj\Debug\netcoreapp3.1\LIstArraysAssignment.AssemblyInfoInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\obj\Debug\netcoreapp3.1\LIstArraysAssignment.AssemblyInfo.cs
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\obj\Debug\netcoreapp3.1\LIstArraysAssignment.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\obj\Debug\netcoreapp3.1\LIstArraysAssignment.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LIstArraysAssignment\obj\Debug\netcoreapp3.1\LIstArraysAssignment.genruntimeconfig.cache
