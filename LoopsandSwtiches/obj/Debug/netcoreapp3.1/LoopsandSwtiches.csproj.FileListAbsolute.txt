@@ -1,0 +1,12 @@
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\bin\Debug\netcoreapp3.1\LoopsandSwtiches.exe
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\bin\Debug\netcoreapp3.1\LoopsandSwtiches.deps.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\bin\Debug\netcoreapp3.1\LoopsandSwtiches.runtimeconfig.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\bin\Debug\netcoreapp3.1\LoopsandSwtiches.runtimeconfig.dev.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\bin\Debug\netcoreapp3.1\LoopsandSwtiches.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\bin\Debug\netcoreapp3.1\LoopsandSwtiches.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\obj\Debug\netcoreapp3.1\LoopsandSwtiches.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\obj\Debug\netcoreapp3.1\LoopsandSwtiches.AssemblyInfoInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\obj\Debug\netcoreapp3.1\LoopsandSwtiches.AssemblyInfo.cs
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\obj\Debug\netcoreapp3.1\LoopsandSwtiches.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\obj\Debug\netcoreapp3.1\LoopsandSwtiches.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\LoopsandSwtiches\obj\Debug\netcoreapp3.1\LoopsandSwtiches.genruntimeconfig.cache
