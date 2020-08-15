@@ -1,0 +1,13 @@
+C:\Users\sjcso\source\repos\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.exe
+C:\Users\sjcso\source\repos\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.deps.json
+C:\Users\sjcso\source\repos\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.runtimeconfig.json
+C:\Users\sjcso\source\repos\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.runtimeconfig.dev.json
+C:\Users\sjcso\source\repos\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.dll
+C:\Users\sjcso\source\repos\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.pdb
+C:\Users\sjcso\source\repos\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.csprojAssemblyReference.cache
+C:\Users\sjcso\source\repos\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\source\repos\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.AssemblyInfoInputs.cache
+C:\Users\sjcso\source\repos\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.AssemblyInfo.cs
+C:\Users\sjcso\source\repos\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.dll
+C:\Users\sjcso\source\repos\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.pdb
+C:\Users\sjcso\source\repos\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.genruntimeconfig.cache
