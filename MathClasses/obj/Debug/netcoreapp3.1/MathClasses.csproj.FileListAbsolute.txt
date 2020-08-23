@@ -1,0 +1,13 @@
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\obj\Debug\netcoreapp3.1\MathClasses.csprojAssemblyReference.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\obj\Debug\netcoreapp3.1\MathClasses.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\obj\Debug\netcoreapp3.1\MathClasses.AssemblyInfoInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\obj\Debug\netcoreapp3.1\MathClasses.AssemblyInfo.cs
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\bin\Debug\netcoreapp3.1\MathClasses.exe
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\bin\Debug\netcoreapp3.1\MathClasses.deps.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\bin\Debug\netcoreapp3.1\MathClasses.runtimeconfig.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\bin\Debug\netcoreapp3.1\MathClasses.runtimeconfig.dev.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\bin\Debug\netcoreapp3.1\MathClasses.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\bin\Debug\netcoreapp3.1\MathClasses.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\obj\Debug\netcoreapp3.1\MathClasses.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\obj\Debug\netcoreapp3.1\MathClasses.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\MathClasses\obj\Debug\netcoreapp3.1\MathClasses.genruntimeconfig.cache
