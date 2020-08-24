@@ -1,0 +1,13 @@
+C:\Users\sjcso\source\repos\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.exe
+C:\Users\sjcso\source\repos\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.deps.json
+C:\Users\sjcso\source\repos\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.runtimeconfig.json
+C:\Users\sjcso\source\repos\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.runtimeconfig.dev.json
+C:\Users\sjcso\source\repos\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.dll
+C:\Users\sjcso\source\repos\EmployeeAssignment\bin\Debug\netcoreapp3.1\EmployeeAssignment.pdb
+C:\Users\sjcso\source\repos\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.csprojAssemblyReference.cache
+C:\Users\sjcso\source\repos\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\source\repos\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.AssemblyInfoInputs.cache
+C:\Users\sjcso\source\repos\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.AssemblyInfo.cs
+C:\Users\sjcso\source\repos\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.dll
+C:\Users\sjcso\source\repos\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.pdb
+C:\Users\sjcso\source\repos\EmployeeAssignment\obj\Debug\netcoreapp3.1\EmployeeAssignment.genruntimeconfig.cache
