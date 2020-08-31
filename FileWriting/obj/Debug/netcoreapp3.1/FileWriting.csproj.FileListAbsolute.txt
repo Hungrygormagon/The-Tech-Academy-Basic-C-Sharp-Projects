@@ -1,0 +1,13 @@
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\bin\Debug\netcoreapp3.1\FileWriting.exe
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\bin\Debug\netcoreapp3.1\FileWriting.deps.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\bin\Debug\netcoreapp3.1\FileWriting.runtimeconfig.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\bin\Debug\netcoreapp3.1\FileWriting.runtimeconfig.dev.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\bin\Debug\netcoreapp3.1\FileWriting.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\bin\Debug\netcoreapp3.1\FileWriting.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\obj\Debug\netcoreapp3.1\FileWriting.csprojAssemblyReference.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\obj\Debug\netcoreapp3.1\FileWriting.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\obj\Debug\netcoreapp3.1\FileWriting.AssemblyInfoInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\obj\Debug\netcoreapp3.1\FileWriting.AssemblyInfo.cs
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\obj\Debug\netcoreapp3.1\FileWriting.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\obj\Debug\netcoreapp3.1\FileWriting.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\FileWriting\obj\Debug\netcoreapp3.1\FileWriting.genruntimeconfig.cache
