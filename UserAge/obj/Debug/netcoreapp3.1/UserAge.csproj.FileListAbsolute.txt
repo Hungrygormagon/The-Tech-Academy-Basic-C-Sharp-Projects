@@ -1,0 +1,13 @@
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\bin\Debug\netcoreapp3.1\UserAge.exe
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\bin\Debug\netcoreapp3.1\UserAge.deps.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\bin\Debug\netcoreapp3.1\UserAge.runtimeconfig.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\bin\Debug\netcoreapp3.1\UserAge.runtimeconfig.dev.json
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\bin\Debug\netcoreapp3.1\UserAge.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\bin\Debug\netcoreapp3.1\UserAge.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\obj\Debug\netcoreapp3.1\UserAge.csprojAssemblyReference.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\obj\Debug\netcoreapp3.1\UserAge.csproj.CoreCompileInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\obj\Debug\netcoreapp3.1\UserAge.AssemblyInfoInputs.cache
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\obj\Debug\netcoreapp3.1\UserAge.AssemblyInfo.cs
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\obj\Debug\netcoreapp3.1\UserAge.dll
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\obj\Debug\netcoreapp3.1\UserAge.pdb
+C:\Users\sjcso\Documents\Software Bootcamp\C#\UserAge\obj\Debug\netcoreapp3.1\UserAge.genruntimeconfig.cache
